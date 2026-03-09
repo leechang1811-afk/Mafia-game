@@ -990,7 +990,7 @@ export default function Home() {
       <div className="min-h-[100svh] flex flex-col items-center justify-center px-6 gap-3 bg-black">
         <p className="text-sm text-white/50">사회자가 필요없는</p>
         <h1 className="text-4xl font-bold tracking-tight text-white">
-          마피아 게임
+          마피아 게임 도우미
         </h1>
 
         <div className="mt-6 flex flex-col items-center gap-3 w-full max-w-xs">
